@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Vans Old Skool",
+    "status": "Sedang Dicuci",
+    "tanggalMasuk": "2025-10-23",
+    "tanggalSelesai": "-"
+  },
+  {
+    "id": 2,
+    "nama": "Sepatu reot",
+    "status": "Selesai",
+    "tanggalMasuk": "2025-10-23",
+    "tanggalSelesai": "2025-10-25"
+  },
+  {
+    "id": 3,
+    "nama": "Sepatu hitam putih",
+    "status": "Sedang Dicuci",
+    "tanggalMasuk": "2025-10-23",
+    "tanggalSelesai": "-"
+  }
+]
